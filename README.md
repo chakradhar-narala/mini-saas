@@ -172,7 +172,7 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-Narala Chakradhar Reedy
+Narala Chakradhar Reddy
 
 ---
 
